@@ -53,10 +53,10 @@ ActiveAdmin.register Article do
   #   permitted
   # end
 
-  controller do 
-    def update
-      resource = 
-    end
-  end
+  # controller do 
+  #   def update
+  #     resource = 
+  #   end
+  # end
   
 end
