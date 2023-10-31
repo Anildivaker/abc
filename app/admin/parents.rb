@@ -14,7 +14,7 @@ ActiveAdmin.register Parent do
     f.actions
   end
   show do
-    debugger
+    # debugger
     attributes_table do
       row :id
       row :name
